@@ -98,8 +98,9 @@ CodeDeploy & EC2CodeDeploy
     <br />
     <br />
    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;     service codedeploy-agent status
+ <br />
 ec2-ansible-redis
-
+<br/>
 This playbook addresses the topic of starting redis cluster in AWS.
 
 Prereq would be
