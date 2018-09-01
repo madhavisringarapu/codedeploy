@@ -99,7 +99,7 @@ CodeDeploy & EC2CodeDeploy
     <br />
    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;     service codedeploy-agent status
  <br />
-ec2-ansible-redis
+# ec2-ansible-redis
 <br/>
 This playbook addresses the topic of starting redis cluster in AWS.
 
